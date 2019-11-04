@@ -1,8 +1,7 @@
 # ts-timeout
 node typescript timeout
 
-```
-javascript
+```javascript
 import { Timeout } from './Timeout';
 
 const timeout = new Timeout();
