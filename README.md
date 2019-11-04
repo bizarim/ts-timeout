@@ -1,2 +1,2 @@
 # ts-timeout
-timeout
+node typescript timeout
