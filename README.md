@@ -4,6 +4,8 @@ node typescript timeout
 ```javascript
 import { Timeout } from './Timeout';
 
-const timeout = new Timeout();
-timeout.set(1000);
+async run(): void {
+  const timeout = new Timeout();
+  await timeout.set(1000);
+}
 ```
